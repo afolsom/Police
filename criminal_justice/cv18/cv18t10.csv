@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: cv18t10.csv,,,,,,,
+"Table 10. Number and rate of violent victimizations, by victim’s veteran and citizenship status, 2017 and 2018",,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2014-2018.",,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,
+Date of version: 9/10/19,,,,,,,
+,,,,,,,
+"Table 10. Number and rate of violent victimizations, by victim’s veteran and citizenship status, 2017 and 2018",,,,,,,
+,,,2017,,,2018*,
+Victim veteran and citizenship status,,,Number,"Rate per 1,000/a",,Number,"Rate per 1,000/a"
+,Total violent victimizations/b,,"5,612,670",20.6,,"6,385,520",23.2
+Veteran status/c,,,,,,,
+,Veteran/d,,"348,520",19.4,,"378,300",20.7
+,Non-veteran/e,,"4,384,410",19.3,,"5,115,180",22.2
+Citizenship status,,,,,,,
+,U.S. citizen,,"5,304,470",20.8,,"6,163,570",23.9
+,,U.S.-born citizen/f,"5,106,650",21.9,,"5,900,190",25.1
+,,Naturalized U.S. citizen,"197,820",9.1,,"263,380",11.6
+,Non-U.S. citizen,,"260,320",16.2,,"196,350",12.5
+,U.S.-born/f,,"5,106,650",21.9,,"5,900,190",25.1
+,Foreign-born/g,,"458,140",12.1,,"459,730",11.9
+Note: Details may not sum to totals due to rounding and missing data. See appendix table 15 for standard errors.,,,,,,,
+*Comparison year.,,,,,,,
+"a/Rate is per 1,000 persons age 12 or older.",,,,,,,
+"b/Includes rape or sexual assault, robbery, aggravated assault, and simple assault. Includes threatened, attempted, and completed occurrences of those crimes. Excludes homicide because the National Crime Victimization Survey (NCVS) is based on interviews with victims.",,,,,,,
+c/Includes persons age 18 or older.,,,,,,,
+"d/Veterans include persons currently or previously on active duty. Because the NCVS is a household-based survey and veterans are more likely to be out of the household at the time of data collection, most veterans in the sample are former active-duty military personnel.",,,,,,,
+e/Non-veterans include persons who never served in the U.S. Armed Forces or who completed training in the Reserves or National Guard only.,,,,,,,
+"f/Includes persons born in the U.S., in a U.S. territory, or abroad to U.S. parents.",,,,,,,
+g/Includes naturalized U.S. citizens and non-U.S. citizens.,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2017 and 2018.",,,,,,,

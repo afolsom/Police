@@ -1,0 +1,27 @@
+Bureau of Justice Statistics,,,
+Filename: cv18at09.csv,,,
+"Appendix table 9. Standard errors for table 4: Rate of crime reported to police in the Uniform Crime Reporting program and in the National Crime Victimization Survey, 2017 and 2018",,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2017 and 2018.",,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,
+Date of version: 9/10/19,,,
+,,,
+"Appendix table 9. Standard errors for table 4: Rate of crime reported to police in the Uniform Crime Reporting program and in the National Crime Victimization Survey, 2017 and 2018",,,
+,,,
+,,"Rate per 1,000 persons age 12 or older",
+Type of crime,,2017 NCVS,2018 NCVS
+Violent crime excluding,,0.39,0.46
+   simple assault,,,
+,Murder, ~ ,~
+,Rape/sexual assault,0.11,0.13
+,Robbery,0.17,0.2
+,Aggravated assault,0.26,0.3
+,,,
+,," Rate per 1,000 households ",
+,, 2017 NCVS ,2018 NCVS
+Property crime,,1.11,1.11
+,Burglary,0.44,0.44
+,Motor-vehicle theft,0.3,0.3
+~Not applicable.,,,
+"Sources: Bureau of Justice Statistics, National Crime Victimization Survey, 2017 and 2018.",,,

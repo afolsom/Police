@@ -1,0 +1,22 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,
+Filename: cv18t07.csv,,,,,,,,,,,,,,,,
+"Table 7. Rate of violent victimization reported and not reported to police, by completed, attempted, and threatened crimes, 2014-2018",,,,,,,,,,,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2014-2018.",,,,,,,,,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,,,,
+Date of version: 9/10/19,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Table 7. Rate of violent victimization reported and not reported to police, by completed, attempted, and threatened crimes, 2014-2018",,,,,,,,,,,,,,,,
+,,"Rate of reported crime per 1,000/a",,,,,,,"Rate of unreported crime per 1,000/a",,,,,,,
+Violent crime,,2014,2015,,2016,2017,2018*,,2014,,2015,,2016,,2017,2018*
+,Total,9.2,8.6,,8.6,9.2,9.9,,10.5, ‡,9.5, †,10.8, ‡,10.9,12.9
+Completed ,,3.4,3.3,,2.5,2.8,3.3,,3,,2.6, ‡,2.6, ‡,2.6,3.5
+Attempted,,2.9,3.1,,2.6,2.9,3.2,,3.9,,3.3,,3.3,,3.8,3.8
+Threatened,,3,2.2, †,3.6,3.5,3.4,,3.7, †,3.6, †,4.9,,4.5,5.6
+"Note: Details may not sum to totals due to rounding and missing data. Violent-crime categories include rape or sexual assault, robbery, aggravated assault, and simple assault. Each year between 2014 and 2018, whether the crime was reported to police or not was unknown at a rate of 0.3 to 0.5 victimizations per 1,000 persons age 12 or older. See appendix table 12 for standard errors.",,,,,,,,,,,,,,,,
+*Comparison year.,,,,,,,,,,,,,,,,
+†Significant difference from comparison year at the 95% confidence level.,,,,,,,,,,,,,,,,
+‡Significant difference from comparison year at the 90% confidence level.,,,,,,,,,,,,,,,,
+"a/Rate is per 1,000 persons age 12 or older. See appendix table 26 for person populations.",,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2014-2018.",,,,,,,,,,,,,,,,

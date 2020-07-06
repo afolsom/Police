@@ -1,0 +1,18 @@
+Bureau of Justice Statistics,,,,,
+Filename: cv18at13.csv,,,,,
+"Appendix table 13. Standard errors for table 8: Percent of violent victimizations for which victims received assistance from a victim-service agency, by type of crime, 2017 and 2018",,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2017 and 2018.",,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,
+Date of version: 9/10/19,,,,,
+,,,,,
+"Appendix table 13. Standard errors for table 8: Percent of violent victimizations for which victims received assistance from a victim-service agency, by type of crime, 2017 and 2018",,,,,
+Type of crime,,2017,,2018,
+Violent crime,,0.99,%,1.17,%
+,Violent crime excluding simple assault,1.64,,1.79,
+,Simple assault,1.07,,1.26,
+Intimate partner violence,,3.03,%,3.06,%
+Violent crime involving injury,,2.41,%,2.28,%
+Violent crime involving a weapon,,1.9,%,2.03,%
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2017 and 2018.",,,,,

@@ -1,0 +1,28 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,
+Filename: cv18t18.csv,,,,,,,,,,,,,,,,,
+"Table 18. Number and percent of households victimized, by type of property crime, 2014-2018",,,,,,,,,,,,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2014-2018.",,,,,,,,,,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,,,,,
+Date of version: 9/10/19,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Table 18. Number and percent of households victimized, by type of property crime, 2014-2018",,,,,,,,,,,,,,,,,
+,,Number of households victimized/a,,,,,,Percent of households victimized/b,,,,,,,,,
+Type of property crime,,2014,2015,2016,2017,2018*,,2014,,2015,,2016,,2017,,2018*,
+,Total,"10,352,530","10,030,510","9,825,060","9,145,690","9,080,490",,7.99,% †,7.6,%,7.37,%,7.43,%,7.27,%
+Burglary/trespassing/c,,"2,166,890","2,175,380","2,037,320","1,842,730","1,851,420",,1.67,% †,1.65,% †,1.53,%,1.5,%,1.48,%
+,Burglary/d,"1,638,920","1,562,130","1,455,720","1,273,410","1,333,600",,1.27, †,1.18,,1.09,,1.03,,1.07,
+,Trespassing/e,"604,200","707,910","671,650","639,620","585,190",,0.47,,0.54,,0.5,,0.52,,0.47,
+Motor-vehicle theft,,"429,840","465,650","470,880","438,860","424,360",,0.33,%,0.35,%,0.35,%,0.36,%,0.34,%
+Other theft/f,,"8,297,290","7,941,030","7,803,350","7,330,960","7,261,840",,6.41,% †,6.02,%,5.85,%,5.96,%,5.82,%
+"Note: Details may not sum to totals because a household may experience multiple types of crime. The National Crime Victimization Survey (NCVS) household weighting adjustment was updated for 2017, which decreased the estimated number of households experiencing property crime by about 8%. As a result, the number of property crimes should not be compared from 2017 or 2018 to 2016, 2015, or 2014. Property crime rates are unaffected by this change. See appendix table 23 for standard errors and appendix table 27 for household populations. See Methodology for details on the change in the household weighting adjustment in the NCVS.",,,,,,,,,,,,,,,,,
+*Comparison year. ,,,,,,,,,,,,,,,,,
+†Significant difference from comparison year at the 95% confidence level.,,,,,,,,,,,,,,,,,
+a/Number of households that experienced at least one property victimization during the year.,,,,,,,,,,,,,,,,,
+b/Percentage of households that experienced at least one property victimization during the year.,,,,,,,,,,,,,,,,,
+"c/Called household burglary in prior reports. Includes unlawful or forcible entry or attempted entry of places, including a permanent residence, other residence (e.g., a hotel room or vacation residence), or other structure (e.g., a garage or shed). Includes victimizations where the offender stole, attempted to steal, or did not attempt to steal. Does not include trespassing on land.",,,,,,,,,,,,,,,,,
+d/Includes only crimes where the offender committed or attempted a theft.,,,,,,,,,,,,,,,,,
+e/Includes crimes where the offender did not commit or attempt a theft. Does not include trespassing on land.,,,,,,,,,,,,,,,,,
+f/Includes the taking or attempted unlawful taking of property or cash without personal contact with the victim.,,,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2014-2018.",,,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: cv18at20.csv,,,,,,,,,
+"Appendix table 20. Standard errors for table 15: Percent of violent incidents and percent of the U.S. population, by victim race or ethnicity, 2018",,,,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2017 and 2018.",,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,
+Date of version: 9/10/19,,,,,,,,,
+,,,,,,,,,
+"Appendix table 20. Standard errors for table 15: Percent of violent incidents and percent of the U.S. population, by victim race or ethnicity, 2018",,,,,,,,,
+,Percent of violent incidents committed by offenders,,,,,,,,
+,Of the same race/ethnicity,,,,,Of another race/ethnicity,,,
+,,,95% confidence interval,,,,,95% confidence interval,
+Victim race/ethnicity,Standard error,,Lower bound,Upper bound,,Standard error,,Lower bound,Upper bound
+White,2.75,%,56.74,67.53,,2.6,%,32.77,42.96
+Black,4.76,,60.97,79.61,,4.41,,21.07,38.36
+Hispanic,4.55,,36.49,54.33,,4.63,,45.52,63.66
+Asian,6.24,,11.86,36.33,,6.74,,62.7,89.11
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018.",,,,,,,,,

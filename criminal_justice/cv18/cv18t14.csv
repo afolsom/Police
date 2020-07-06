@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+Filename: cv18t14.csv,,,,,,,,,,,,,,,
+"Table 14. Percent of violent incidents, by victim and offender race or ethnicity, 2018",,,,,,,,,,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018.",,,,,,,,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,,,
+Date of version: 9/10/19,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"Table 14. Percent of violent incidents, by victim and offender race or ethnicity, 2018",,,,,,,,,,,,,,,
+,,Offender race/ethnicity,,,,,,,,,,,,,
+Victim race/ethnicity,Number of violent incidents,Total,,White/a,,Black/a,,Hispanic,,Asian/a,,"Other/a,b",,Multiple offenders of various races,
+White/a,"3,581,360",100,%,62.1,%*,15.3,% †,10.2,% †,2.2,% †,8.1,% †,2.1,% †
+Black/a,"563,940",100,%,10.6, †,70.3,*,7.9, †,<0.1 , !,9.3, †,1.9, ! †
+Hispanic,"734,410",100,%,28.2, †,15.3, †,45.4,*,0.6, ! †,7.4, †,3, †
+Asian/a,"182,230",100,%,24.1,,27.5,,7, ! †,24.1,*,14.4, ! ,2.9, ! †
+Note: Details may not sum to totals due to rounding. An incident is a specific criminal act involving one or more victims. Offender race/ethnicity is based on victims’ perceptions of offenders. Includes violent incidents in which the perceived offender race/ethnicity was reported. Offender race/ethnicity was unknown in 11% of violent incidents. See appendix table 19 for standard errors.,,,,,,,,,,,,,,,
+"! Interpret with caution. Estimate is based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,,,,,,,,,,,
+"*Comparison groups are intraracial victim and offender percentages (white-on-white, black-on-black, Hispanic-on-Hispanic, or Asian-on-Asian).",,,,,,,,,,,,,,,
+†Significant difference from comparison group at the 95% confidence level.,,,,,,,,,,,,,,,
+"a/Excludes persons of Hispanic/Latino origin (e.g., “white” refers to non-Hispanic whites and “black” refers to non-Hispanic blacks).",,,,,,,,,,,,,,,
+"b/Includes Native Hawaiians and Other Pacific Islanders, American Indians and Alaska Natives, and persons of two or more races.",,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018.",,,,,,,,,,,,,,,

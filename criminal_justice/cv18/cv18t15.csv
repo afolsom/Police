@@ -1,0 +1,24 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,
+Filename: cv18t15.csv,,,,,,,,,,,,,,,,
+"Table 15. Percent of violent incidents and percent of the U.S. population, by victim race or ethnicity, 2018",,,,,,,,,,,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018.",,,,,,,,,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,,,,
+Date of version: 9/10/19,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Table 15. Percent of violent incidents and percent of the U.S. population, by victim race or ethnicity, 2018",,,,,,,,,,,,,,,,
+,Percent of violent incidents committed by offenders,,,,,,,Percent of the U.S. population*/a,,,,,,,Percent ratio,
+Victim race/ethnicity,Total,,Of the same race/ethnicity,,Of another race/ethnicity,,,Total,,Of the same race/ethnicity,,Of another race/ethnicity,,,Offender of same race/ethnicity to population of same race/ethnicity/c ,Offender of another race/ethnicity to population of another race/ethnicity/d
+White/b,100,%,62.1,%,37.9,%,,100,%,62.3,%,37.7,%,,1,1
+Black/b,100,%,70.3, †,29.7, †,,100,%,12,,88,,,5.8,0.3
+Hispanic,100,%,45.4, †,54.6, †,,100,%,17.1,,82.9,,,2.7,0.7
+Asian/b,100,%,24.1, †,75.9, †,,100,%,6.3,,93.7,,,3.9,0.8
+Note: Details may not sum to totals due to rounding. An incident is a specific criminal act involving one or more victims. Offender race/ethnicity is based on victims’ perceptions of offenders. Includes violent incidents in which the perceived offender race/ethnicity was reported. Offender race/ethnicity was unknown in 11% of violent incidents. See appendix table 20 for standard errors.,,,,,,,,,,,,,,,,
+"*Comparisons are between the percentage of the U.S. population of the same race/ethnicity and the percentage of violent incidents committed by offenders of the same race/ethnicity, and between the percentage of the U.S. population of another race/ethnicity and the percentage of violent incidents committed by offenders of another race/ethnicity.",,,,,,,,,,,,,,,,
+†Significant difference from comparison group at the 95% confidence level.,,,,,,,,,,,,,,,,
+a/The National Crime Victimization Survey population represents persons age 12 or older living in non-institutionalized residential settings in the U.S. ,,,,,,,,,,,,,,,,
+"b/Excludes persons of Hispanic/Latino origin (e.g., “white” refers to non-Hispanic whites and “black” refers to non-Hispanic blacks).",,,,,,,,,,,,,,,,
+c/The percentage of incidents committed by offenders of the same race/ethnicity of the victim divided by the percentage of the U.S. population of the same race/ethnicity. ,,,,,,,,,,,,,,,,
+d/The percentage of incidents committed by offenders of another race/ethnicity divided by the percentage of the U.S. population of another race/ethnicity.,,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018.",,,,,,,,,,,,,,,,

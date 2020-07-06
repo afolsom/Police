@@ -1,0 +1,40 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: cv18f03.csv,,,,,,,,,,,
+"Figure 3. Percent of U.S. residents age 12 or older who were victims of total serious, serious violent, and serious property crime, 1993-2018",,,,,,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 1993-2018.",,,,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,
+Date of version: 9/10/19,,,,,,,,,,,
+,,,,,,,,,,,
+"Figure 3. Percent of U.S. residents age 12 or older who were victims of total serious, serious violent, and serious property crime, 1993-2018",,,,,,,,,,,
+Year,Total serious crime,,,,Serious violent crime,,,,Serious property crime,,
+,Estimate,Lower bound,Upper bound,,Estimate,Lower bound,Upper bound,,Estimate,Lower bound,Upper bound
+1993,4.55,4.43,4.67,,1.23,1.19,1.28,,3.48,3.37,3.58
+1994,5.24,5.03,5.45,,1.37,1.29,1.45,,4.03,3.84,4.22
+1995,4.63,4.38,4.88,,1.14,1.08,1.22,,3.62,3.39,3.87
+1996,4.21,4.03,4.41,,1.02,0.96,1.09,,3.28,3.1,3.47
+1997,4.16,3.94,4.4,,1.02,0.95,1.11,,3.24,3.04,3.46
+1998,3.66,3.46,3.87,,0.89,0.81,0.98,,2.85,2.67,3.05
+1999,3.21,3.03,3.4,,0.78,0.72,0.85,,2.49,2.33,2.67
+2000,3.02,2.83,3.23,,0.7,0.64,0.77,,2.37,2.19,2.57
+2001,2.72,2.54,2.91,,0.62,0.56,0.69,,2.15,1.99,2.33
+2002,2.73,2.55,2.92,,0.51,0.46,0.56,,2.26,2.1,2.44
+2003,2.87,2.67,3.09,,0.53,0.48,0.58,,2.39,2.2,2.6
+2004,2.72,2.51,2.94,,0.52,0.46,0.58,,2.23,2.04,2.42
+2005,2.64,2.44,2.87,,0.5,0.45,0.56,,2.2,2.01,2.41
+2006,3.00,2.80,3.21,,0.68,0.62,0.75,,2.37,2.18,2.58
+2007,2.39,2.23,2.55,,0.46,0.41,0.52,,1.96,1.81,2.12
+2008,2.25,2.1,2.42,,0.46,0.42,0.52,,1.82,1.66,1.98
+2009,2.38,2.19,2.58,,0.42,0.38,0.47,,1.99,1.81,2.19
+2010,2.21,2.05,2.38,,0.42,0.36,0.48,,1.82,1.68,1.98
+2011,2.25,2.08,2.43,,0.46,0.42,0.5,,1.83,1.67,2
+2012,2.19,2.03,2.37,,0.47,0.42,0.52,,1.76,1.61,1.93
+2013,2.02,1.88,2.17,,0.42,0.38,0.46,,1.64,1.5,1.78
+2014,1.89,1.75,2.04,,0.44,0.4,0.5,,1.48,1.35,1.63
+2015,1.78,1.65,1.91,,0.39,0.35,0.44,,1.42,1.3,1.55
+2016,1.73,1.62,1.85,,0.4,0.36,0.45,,1.36,1.25,1.47
+2017,1.66,1.54,1.8,,0.43,0.39,0.47,,1.27,1.15,1.4
+2018,1.68,1.56,1.81,,0.46,0.42,0.51,,1.25,1.14,1.37
+"Note: Estimates include 95% confidence intervals. See table 19 for serious-crime definitions and appendix table 3 for estimates and standard errors. Estimates for 2006 should not be compared to other years (see Criminal Victimization, 2007 (NCJ 224390, BJS web, December 2008).",,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1993-2018.",,,,,,,,,,,

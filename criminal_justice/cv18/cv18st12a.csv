@@ -1,0 +1,41 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,
+Filename: cv18st12a.csv,,,,,,,,,,,,,,,,
+"Table 12a. Violent incidents excluding simple assault, by total population, victim, and offender demographic characteristics, 2018",,,,,,,,,,,,,,,,
+"Report title: Criminal Victimization, 2018   NCJ 253043",,,,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018 Public-Use File, special tabulation.",,,,,,,,,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Barbara A. Oudekerk, Ph.D., BJS Statisticians",,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,,,,
+Date of version: 6/18/20,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Table 12a. Violent incidents excluding simple assault, by total population, victim, and offender demographic characteristics, 2018",,,,,,,,,,,,,,,,
+,,,Number of incidents,,,,,,Percent of incidents,,,,,Percent ratio,,
+Demographic characteristic,,Population/a,Offender/b,,Victim ,,Percent of population*/a,,Offender/b,,Victim ,,,Offender to victim ,Offender to population ,Victim to population 
+,Total,"275,325,390","2,217,160",,"2,217,160",,100,%,100,%,100,%,,1,1,1
+Sex,,,,,,,,,,,,,,,,
+,Male,"133,907,500","1,691,120",,"938,100",,48.6,%,82.4,% †,42.3,% †,,1.9,1.7,0.9
+,Female,"141,417,890","282,060",,"1,279,060",,51.4,,13.7, †,57.7, †,,0.2,0.3,1.1
+,Both male and female offenders,~,"80,310",,~,,~,,3.9,,~,,,~,~,~
+Race/ethnicity,,,,,,,,,,,,,,,,
+,White/c,"171,493,180","959,560",,"1,302,250",,62.3,%,48.9,% †,58.7,%,,0.8,0.8,0.9
+,Black/c,"33,132,390","488,240",,"311,430",,12,,24.9, †,14,,,1.8,2.1,1.2
+,Hispanic,"46,997,610","298,860",,"380,400",,17.1,,15.2,,17.2,,,0.9,0.9,1
+,Asian/c,"17,228,930","45,840",,"95,310",,6.3,,2.3, †,4.3, †,,0.5,0.4,0.7
+,"Other/c,d","6,473,280","117,030",,"127,770",,2.4,,6, †,5.8, †,,1,2.5,2.5
+,Multiple offenders of various races,~,"50,970",,~,,~,,2.6,,~,,,~,~,~
+Age,,,,,,,,,,,,,,,,
+,11 or younger/e,~,"29,900", !,~,,~,,1.6,% !,~,,,~,~,~
+, 12-17 ,"24,917,160","219,710",,"234,520",,9.1,%,11.4,,10.6,%,,1.1,1.3,1.2
+,18-29,"52,966,630","556,990",,"749,460",,19.2,,28.9, †,33.8, †,,0.9,1.5,1.8
+,30 or older,"197,441,600","959,720",,"1,233,180",,71.7,,49.8, †,55.6, †,,0.9,0.7,0.8
+,Multiple offenders of various ages,~,"161,660",,~,,~,,8.4,,~,,,~,~,~
+"Note: Details may not sum to totals due to rounding and missing data for offender characteristics. An incident is a specific criminal act involving one or more victims or victimizations. Violent incidents excluding simple assault include rape or sexual assault, robbery, and aggravated assault. Offender characteristics are based on the victims’ perceptions of the offenders. See supplemental appendix table 17a for standard errors.",,,,,,,,,,,,,,,,
+*Comparison group.,,,,,,,,,,,,,,,,
+†Significant difference from comparison group at the 95% confidence level.,,,,,,,,,,,,,,,,
+"! Interpret with caution. Estimate is based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,,,,,,,,,,,,
+~Not applicable.,,,,,,,,,,,,,,,,
+a/The National Crime Victimization Survey population represents persons age 12 or older living in non-institutionalized residential settings in the U.S.,,,,,,,,,,,,,,,,
+"b/Includes incidents in which the perceived offender characteristics were reported. The sex of the offender was unknown in 7% of incidents, the race/ethnicity of offender was unknown in 12% of incidents, and the age of offender was unknown in 13% of incidents.",,,,,,,,,,,,,,,,
+"c/Excludes persons of Hispanic/Latino origin (e.g., “white” refers to non-Hispanic whites and “black” refers to non-Hispanic blacks).",,,,,,,,,,,,,,,,
+"d/Includes Native Hawaiians and Other Pacific Islanders, American Indians and Alaska Natives, and persons of two or more races.",,,,,,,,,,,,,,,,
+"e/While the NCVS does not survey victims age 11 or younger, victims may report the offender to be age 11 or younger.",,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018 Public-Use File, special tabulation.",,,,,,,,,,,,,,,,
